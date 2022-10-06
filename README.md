@@ -6,10 +6,11 @@
 >
 > ![E-mail](https://img.shields.io/badge/Mail-Monsbot@protonmail.com-8a6eff?style=for-the-badge&logo=gmail&logoColor=white)
 >
-> [![namemc](https://img.shields.io/badge/namemc-Monsbot-191919?style=for-the-badge&logo=namemc&logoColor=white)](https://namemc.com/profile/Monsbot.1)
->
 > [![twitter](https://img.shields.io/badge/twitter-Keimooa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Keimooa)
-
+>
+> [![twitter](https://img.shields.io/badge/youtube-dQw4-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+>
+> [![namemc](https://img.shields.io/badge/namemc-Monsbot-191919?style=for-the-badge&logo=namemc&logoColor=white)](https://namemc.com/profile/Monsbot.1)
 
 ##### **she/her he/him**
 ###### (*I don't really care about that tho*)
