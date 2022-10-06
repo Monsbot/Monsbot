@@ -11,16 +11,21 @@
 > [![twitter](https://img.shields.io/badge/twitter-Keimooa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Keimooa)
 
 
-###### **she/her he/him** (*I don't really care tho*)
+##### **she/her he/him**
+###### (*I don't really care about that tho*)
 ---
 ## My current project: [![project](https://img.shields.io/badge/Plunzish-Pixmoji-brightgreen)](https://github.com/Plunzi/PixMoji/tree/pixmoji-plugin)
 
 ---
-##### 📜 Alright now here is bio stuff
 
+<details>
+<summary>Rest of my readme</summary>
+
+##### 📜 Alright now here is bio stuff
 
 ### Things to know about me:
 * I think bios are hard and idk what to write in them, so enjoy some useless information in a neat looking table
+
 
 here are some things I like / dislike because, again, tables look neat
 
@@ -32,3 +37,4 @@ here are some things I like / dislike because, again, tables look neat
 |Animals because, cute, yk | people who don't like animals, like why would you not like them, you are literally one yourself lol |
 |being alone|feeling lonely| (yeah ik)
 |idk what else to put here, I'm running out of ideas, so imma say my partner ❤️ :)| Homework, school stays in school and home stays home|
+</details>
