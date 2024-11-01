@@ -7,8 +7,7 @@
 
 #### My current project:</br>
 
-[![project](https://img.shields.io/badge/TK-Vehicle--Logic-efaf0f?style=for-the-badge)](https://github.com/plunzish/TK-Vehicle-Logic)
-
+None, I am projectless
 ---
 
 ### 🌐 Socials/Contact
