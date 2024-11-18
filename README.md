@@ -5,9 +5,7 @@
 ##### **she/they**
 ---
 
-#### My current project:</br>
-
-None, I am projectless
+in the gitted hub. straight up "pushin it", and by "it", haha, well. let's justr say. My comits.
 ---
 
 ### 🌐 Socials/Contact
