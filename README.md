@@ -1,11 +1,7 @@
+### I'm not really active on here.
 
-## Hi I'm Monsbot 👋 :)
+in the gitted hub. straight up "pushin it", and by "it", haha, well. let's justr say. My commits.
 
-
-##### **she/they**
----
-
-in the gitted hub. straight up "pushin it", and by "it", haha, well. let's justr say. My comits.
 ---
 
 ### 🌐 Socials/Contact
